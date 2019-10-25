@@ -14,7 +14,7 @@ Echo는 멀리 떨어져 사는 가족들을 주 사용자로 하는 서비스�
  https://youtu.be/fvkCFcfVq28
 
 ## 개발 환경
- * 개발인원 : 5
+ * 개발인원 : 3
  * 기간 : 2019.08.01 – 2019.09.15
  * 스택 :
     * 프론트 엔드 : JavaScript, React Native, Axios, NodeJS, Hooks API, Redux API
